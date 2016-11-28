@@ -1,4 +1,4 @@
-# python-factorization-veryshort
+# py3-factorization-veryshort
 Python 3!
 Factorization w python,very short codes! - Çarpanlara ayırma çok kısa kodlarla
 
